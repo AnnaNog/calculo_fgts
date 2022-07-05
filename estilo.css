@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    background-color: #ffffff;
+    color: #000000;
+    font-family: arial;
+    padding: 5%;
+    font-size: 1.6rem;
+    box-shadow: #32CD32 2px 2px;
+}
+section{
+    font-family: arial;
+    font-size: 16px;
+    text-align: left;
+    width: 90%;
+    margin: 0 auto;
+    padding: 1%;
+    font-size: 1.6rem;
+}
+footer{
+    background-color: #DCDCDC;
+    color: #000000;
+    font-family: Arial;
+    padding: 5%;
+    text-align: end;
+    font-size: 14px;
+    font-size: 1.6rem;
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    text-shadow: 2px 2px #FF8C00;
+    font-size: 3rem;
+    text-align: left;
+}
+h4{
+    text-shadow: 1px 1px #32CD32;
+    font-size: 2rem;
+    text-align: left;
+}
+p{
+    font-size: 1.6rem;
+    text-align: justify;
+    font-family: Arial;
+
+}
+.rodape{
+    font-size: 1.4rem;
+    text-align: end;
+    font-family: Arial;
+}
